@@ -1,0 +1,587 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discourse: expressing the substaunce of all the late pretended treasons against the Queenes Maiestie, and estates of this realme, by sondry traytors who were executed for the same on the 20. and 21. daies of September last past. 1586. VVhereunto is adioyned a godly prayer for the safetie of her Highnesse person, her honorable counsaile, and all other her obedient subiects. Seene and alowed.</title>
+            <author>Nelson, Thomas, fl. 1580.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1586</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72931</idno>
+            <idno type="STC">STC 18425.5</idno>
+            <idno type="STC">ESTC S125438</idno>
+            <idno type="EEBO-CITATION">99898279</idno>
+            <idno type="PROQUEST">99898279</idno>
+            <idno type="VID">173593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2069:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discourse: expressing the substaunce of all the late pretended treasons against the Queenes Maiestie, and estates of this realme, by sondry traytors who were executed for the same on the 20. and 21. daies of September last past. 1586. VVhereunto is adioyned a godly prayer for the safetie of her Highnesse person, her honorable counsaile, and all other her obedient subiects. Seene and alowed.</title>
+                  <author>Nelson, Thomas, fl. 1580.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by George Robinson for Edward VVhite, and are to be solde at his shop at the signe of the Gun,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1586]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Thomas Nelson.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Running title reads: Of the late entended treasons.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173593:1"/>
+            <pb facs="tcp:173593:1"/>
+            <pb facs="tcp:173593:2"/>
+            <pb facs="tcp:173593:2" rendition="simple:additions"/>
+            <p>¶ A SHORT Diſcourſe:</p>
+            <p>Expreſsing the ſubſtaunce of all the late <hi>pretended
+Treaſons againſt the Queenes</hi> Ma<g ref="char:EOLhyphen"/>ieſtie, and Eſtates of this
+Realme, by ſondry Tray<g ref="char:EOLhyphen"/>tors: who were executed for the ſame on the 20. and
+21. daies of September laſt paſt. 1586.</p>
+            <p>
+               <hi>VVhereunto is adioyned a Godly Prayer for the</hi>
+ſa<g ref="char:EOLhyphen"/>fetie of her Highneſſe perſon, her honorable Coun<g ref="char:EOLhyphen"/>ſaile, and all
+other her obedient Subiects.</p>
+            <p>
+               <hi>Seene and Alowed.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>¶ Imprinted at London by George <hi>Ro<g ref="char:EOLhyphen"/>binſon for Edward
+VVhite, and are to be ſolde</hi> at his Shop at the ſigne of the Gun.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:173593:3"/>
+            <head>¶ To the right Worſhipfull Sir Owen <hi>Hopton: her
+Maiesties Lieutenaunt in her</hi> Highneſſe Tower of London.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Worſhipfull, the due conſideration of the
+in<g ref="char:EOLhyphen"/>numerable Treaſons practiſed and entended a<g ref="char:EOLhyphen"/>gainſt the Queenes moſt
+excellent Maieſtie ſince the tyme of her Highneſſe moſt happie and
+pro<g ref="char:EOLhyphen"/>ſperous raigne, togither with the ſucceſſe of them and all other
+Traytors whatſoeuer, aſwell in the Raigne of o<g ref="char:EOLhyphen"/>ther Kings and Princes of
+this Land (from whom ſhe is royally decended) as alſo in her owne, might
+ſufficie<g ref="char:cmbAbbrStroke">̄</g>tly haue terrified thoſe late executed Traytors to haue bene
+warned from their wicked entents and daungers depending thereon, not onely to
+their liues, their ſoules, their goodes and Lands, but alſo of the infamie
+enſuing there by to their poſteritie for euer: in re<g ref="char:EOLhyphen"/>ſpect of their
+horrible practiſes, againſt our moſt gracious and dread ſoueraigne
+(whoſe Highneſſe God long preſerue in all health and happineſſe)
+for whom all her louing and duetifull Subiects are bound (euen in our Soules)
+to giue God co<g ref="char:cmbAbbrStroke">̄</g>tinuall thankes for preſeruing her Maieſtie and vs all, from
+ſo appa<g ref="char:EOLhyphen"/>rant daungers as was pretended, and had enſued thereby, to the
+ruenating of this whole Realme, had it not moſt graciouſ<g ref="char:EOLhyphen"/>ly bene preuented
+by the finger of God. The ſubſtaunce of which their entended Treaſons, I
+haue rudely handled in a fewe verſes here enſuing, and haue boldly
+dedicated them to your Worſhip, humbly beſeeching you to accept them at his
+hands, who ſtandeth bound to your Worſhip (in reſpect of the vndeſerued
+courteſie he lately re<g ref="char:EOLhyphen"/>ceiued by your good meanes) to pray for you and yours
+during his life.</p>
+            <closer>
+               <signed>Your Worſhips in all bounden duetie, <hi>Thomas
+Nelſon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:173593:3"/>
+            <head>A Godly Prayer giuen to her Maieſtie.</head>
+            <l>O Gracious God bowe downe thine eare, to me that proſtrate
+ſtand,</l>
+            <l>And graunt my prayer may be perfourmde with thy moſt mightie
+hand.</l>
+            <l>Graunt Lord that our moſt gracious Queene Elizabeth by
+name,</l>
+            <l>May floriſh ſtill in happie ſtate and euerlaſting
+fame.</l>
+            <l>Graunt that her Highneſſe liue and raigne in health and
+perfect peace:</l>
+            <l>Graunt that her foes may be cut of, her friends O Lord
+encreaſe.</l>
+            <l>Graunt that her Counſaile ſtill may liue, to doe that which
+is right,</l>
+            <l>For ſafetie of her perſon and, this Realme both day and
+night.</l>
+            <l>Graunt that the Nobles of Eſtate, and Lords of high
+renowne,</l>
+            <l>May liue in duetie to their Prince, and true ſtill to the
+Crowne.</l>
+            <l>Graunt Lord that Paſtors ſee diſchargde, their dueties in
+this Land,</l>
+            <l>To beate downe Sinne and wickedneſſe, which hath the vpper
+hand.</l>
+            <l>Graunt Iuſtices may haue a care, to doe that which is
+right,</l>
+            <l>That Widdowes nor the fatherleſſe, be not oppreſt by
+might.</l>
+            <l>Graunt Lord that they may ſtill defend, the ſtraunger and
+the poore,</l>
+            <l>Who ſondry tymes by violence, is thruſt cleane out of
+doore.</l>
+            <l>Graunt Lord that each mans Conſcience, may pricke him to doe
+well,</l>
+            <l>To flye deceite, to baniſh fraude, leaſt that they hang in
+Hell.</l>
+            <l>Graunt Lord that trueth may ſtill take place, though ſome
+would blinde the ſame,</l>
+            <l>And graunt that tyme may trye the trueth, to their rebuke and
+ſhame.</l>
+            <l>Graunt loue may raigne twixt man and man, ſo may contentions
+ceaſe:</l>
+            <l>Graunt Lord that each man haue his owne, thy bleſſings to
+encreaſe.</l>
+            <l>Graunt Lord that Pride and Couetouſneſſe, may baniſht be
+for aye,</l>
+            <l>Or els the poore ſhall quickly be, thereby brought to
+decaye.</l>
+            <l>Graunt Lord that euery kinde of viſe, may ſtraight be troden
+downe,</l>
+            <l>And euery man reforme himſelf, in Cittie and in Towne.</l>
+            <l>From wicked Lawyers vs defend, conſume the Vſurers Hall,</l>
+            <l>They ſcratch and ſcrape the poore mans purſe, they get the
+Deuill and all.</l>
+            <l>They hourd vp wealth in wondrous ſtore, they doe incroach for
+Lands,</l>
+            <l>They racke their Rents they poule the poore, yet giue nought
+with their hands.</l>
+            <l>Graunt Charitie may come againe, who went to ſeeke S.
+Eedie,</l>
+            <l>That rich mens eares and purſſes might, ſtand open to the
+needie.</l>
+            <l>God graunt all quarrelles now may ceaſe, among both great and
+ſmall,</l>
+            <l>That bowget Lawyers may not lurke, about Weſtminſter
+Hall.</l>
+            <l>God graunt that Children now may growe, obedient as they
+ought,</l>
+            <l>And that their Parents haue a care, they may be duely
+taught:</l>
+            <l>Their duetie to the God of heauen, their Parents and their
+Peeres,</l>
+            <l>So ſhall they better teach their owne, when that they come of
+yeeres.</l>
+            <l>God graunt that ſeruaunts may haue care, to doe their duetie
+ſtill,</l>
+            <l>Firſt to pleaſe God, to liue in feare, and doe their
+Maiſters will.</l>
+            <l>God graunt we may forgiue our foes, reuengement for to
+ſhunn:</l>
+            <l>For God a iuſt reuenger is, of wrongs that hath bene donn.</l>
+            <l>Thus of my Prayer I make an ende, God graunt our endes be
+good,</l>
+            <l>That we may reſt with Chriſt himſelf, who bought vs with
+his blood.</l>
+            <closer>
+               <signed>T. N.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="acrostic">
+            <pb facs="tcp:173593:4"/>
+            <head>¶ Verſes written vpon the Alphabet of <hi>the Queenes
+Maiesties name, and</hi> giuen to her Highneſſe.</head>
+            <lg>
+               <l>Eternall God who guideth ſtill your Grace,</l>
+               <l>Lengthen your life in health and happie ſtate:</l>
+               <l>Inſpier your Subiects hearts in euery place,</l>
+               <l>Zealous in loue, and free from ſecret hate,</l>
+               <l>And ſhorten life in thoſe that breede debate.</l>
+               <l>Beholde her Lord who is our onely ſtay,</l>
+               <l>Euen ſhe it is, by whom we holde our owne:</l>
+               <l>Turne not thy face from her in any way,</l>
+               <l>Hewe downe her foes and let them all be knowne.</l>
+            </lg>
+            <lg>
+               <l>Renowmed Queene, your highneſſe Subiects ioye,</l>
+               <l>Euen for to ſee the fall of all your foes:</l>
+               <l>God of his mercie ſhield you from anoye,</l>
+               <l>Intended Treaſons ſtill for to diſcloſe.</l>
+               <l>None of all but will moſt duely pray,</l>
+               <l>Almightie God preſerue you night and day.</l>
+            </lg>
+         </div>
+         <div type="discourse">
+            <pb facs="tcp:173593:4"/>
+            <head>
+               <g ref="char:leaf">❧</g> The ſubſtance of all the late <hi>entended
+Treaſons.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>O Lord preſerue our noble Queene, her Counſaile long
+maintaine:</hi>
+               </l>
+               <l>
+                  <hi>Confound her foes and graunt her grace in health to rule
+and raigne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>WHen firſt the gracious God of heauen, by meanes did bring
+to light,</l>
+               <l>The Treaſons lately practiſed, by many a wicked wight,</l>
+               <l>Againſt their Prince whoſe life thei ſought, and many a
+noble Péere:</l>
+               <l>The ſubſtaunce of whoſe Treaſons ſtraunge, you
+ſhall moſt truely heare.</l>
+            </lg>
+            <lg>
+               <l>Their Treaſons once diſcouered, then were the Traytors
+ſought:</l>
+               <l>Some of them fled into a Wood, where after they were
+caught,</l>
+               <l>And being brought vnto the Tower, for ioye the Belles did
+ring,</l>
+               <l>And throughout <hi>London</hi> Bonfiers made, where people
+Pſalmes did ſing.</l>
+            </lg>
+            <lg>
+               <l>And ſet their Tables in the ſtreates, with meates of euery
+kinde,</l>
+               <l>Where was preparde all ſignes of ioye, that could be had in
+minde:</l>
+               <l>And praiſde the Lord moſt hartely, that with his mightie
+hand,</l>
+               <l>He had preſerued our gracious Quéene, and people of
+this Land.</l>
+            </lg>
+            <lg>
+               <l>Which thing was taken in good parte, by our renowmed
+Quéene,</l>
+               <l>Who by her Letters gaue them thankes, as plainly may be
+ſeene:</l>
+               <l>Aſſuring them that all her care was for their ſafetie
+ſtill,</l>
+               <l>And that thereby ſhe would deſerue their loue and great
+good will.</l>
+            </lg>
+            <lg>
+               <l>The Traytors well examined, (whom God himſelf bewrayed)</l>
+               <l>Their Treaſons knowne, then were they ſtraight to
+Weſtminſter conuayed,</l>
+               <l>Whereas they all indited were of many a vilde pretence,</l>
+               <l>Seauen pleaded guiltie at the Barre before they went from
+thence.</l>
+            </lg>
+            <lg>
+               <l>The maner how they did begin, herein will plaine appeare,</l>
+               <l>Their purpoſes in each reſpect, you ſhall moſt truely
+heare:</l>
+               <l>Herein vnto you will be ſeene, if they had not bene
+foylde,</l>
+               <l>Our Quéene, our Realme, yea rich and poore together had
+bene ſpoylde.</l>
+            </lg>
+            <pb facs="tcp:173593:5" rendition="simple:additions"/>
+            <lg>
+               <l>One Sauidge lurking long in <hi>Fraunce,</hi> at
+<hi>Rheames</hi> did there remaine,</l>
+               <l>Whom Doctor <hi>Gifford</hi> did perſwade, great honor he
+ſhould gaine:</l>
+               <l>If that he would goe take in hand (theſe matters very
+ſtraunge,)</l>
+               <l>Firſt to depriue our gracious Quéene, Religion for to
+chaunge.</l>
+            </lg>
+            <lg>
+               <l>And then for to enuade the Realme, by trowpes of forraine
+power,</l>
+               <l>To ouerthrowe the gouernment, and kill her in her Bower:</l>
+               <l>Or forceably to diſpoſſeſſe, the Quéene of
+Englands Grace,</l>
+               <l>And to proclaime the <hi>Scottiſh</hi> Quéene, and
+ſet her in her place.</l>
+            </lg>
+            <lg>
+               <l>Which matter <hi>Sauidge</hi> promiſed, his full performance
+too,</l>
+               <l>So that he might ſee warrant with, ſafe Conſcience ſo
+to doo:</l>
+               <l>The Doctor vowed by his Soule, and bad him vnderſtand,</l>
+               <l>It was an honorable thing, to take the ſame in hand.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Sauidge</hi> heard that merits were, to him thereby
+ſo rife,</l>
+               <l>He vowed for to doe the ſame, or els to loſe his life.</l>
+               <l>And ſhorthy into England hyed, and did imparte the
+ſame,</l>
+               <l>To <hi>Babington</hi> of Darby ſhire, a man ſure voyde of
+ſhame.</l>
+            </lg>
+            <lg>
+               <l>And tolde him how that he had vowed, to doe it or to dye,</l>
+               <l>Deſiring him of helpe and ayde, and that immediatly:</l>
+               <l>A Ieſuit Prieſt whom <hi>Ballard</hi> hight, came ouer to
+that end,</l>
+               <l>He came alſo to <hi>Babington,</hi> and daylie did
+attend.</l>
+            </lg>
+            <lg>
+               <l>Still to perſwade him that he would, attempt and take in
+hand,</l>
+               <l>This vilde and wicked enterpriſe, and ſtoutly to it
+ſtand:</l>
+               <l>And tolde him that he ſhould haue ayde, of ſixtie
+thouſand men,</l>
+               <l>That ſecretly ſhould landed be, and tolde him how and
+when.</l>
+            </lg>
+            <lg>
+               <l>And in reſpect of all his paines, he truely might
+depende,</l>
+               <l>That it was lawfull ſo to doe, Renowne ſhould be the
+ende:</l>
+               <l>But let all Traytors now perceiue, what honor he hath
+wonne,</l>
+               <l>Whoſe trayterous head and wicked heart, hath many one
+vndone.</l>
+            </lg>
+            <lg>
+               <l>This proude and haughtie <hi>Babington,</hi> in hope to gaine
+renowne,</l>
+               <l>Did ſtirre vp many wilfull men, in many a Shire and
+Towne:</l>
+               <l>To ayde him in this deuiliſh act, and for to take in
+hand,</l>
+               <l>The ſpoyle of our renowmed Prince, and people of this
+Land.</l>
+            </lg>
+            <pb facs="tcp:173593:5"/>
+            <lg>
+               <l>Who did conclude with bloudie blade, a ſlaughter to
+commit,</l>
+               <l>Vpon her Counſell as they ſhould, within <hi>Star
+Chamber</hi> ſit:</l>
+               <l>Which is a place whereas the Lords, and thoſe of that
+degrée,</l>
+               <l>Yéeldes Iuſtice vnto euery man, that craues it on
+their knée.</l>
+            </lg>
+            <lg>
+               <l>Yéa famous <hi>London</hi> they did meane, for to haue
+ſacke beſide,</l>
+               <l>Both Maior and Magiſtrates therein, haue murdered at that
+tide:</l>
+               <l>Each rich mans goodes had bene their owne, no fauour then had
+ſerude,</l>
+               <l>Nought but our wealth was their deſire, though we and ours
+had ſtarude.</l>
+            </lg>
+            <lg>
+               <l>Beſides theſe wicked practiſes, they had concluded
+more,</l>
+               <l>The burning of the Nauie and, the chéefeſt Shippes in
+ſtore:</l>
+               <l>With fier and ſworde they vowed, to kill and to
+diſplace,</l>
+               <l>Each Lord Knight and Magiſtrate, true Subiects to her
+Grace.</l>
+            </lg>
+            <lg>
+               <l>They had determinde to haue cloyde, and poyſoned out of
+hand,</l>
+               <l>The chéefe and greateſt Ordinaunce, that is within
+this Land:</l>
+               <l>And did entend by violence, on rich men for to fall,</l>
+               <l>To haue their money and their Place, and to haue ſpoyld them
+all.</l>
+            </lg>
+            <lg>
+               <l>The Common wealth of England ſoone, ſhould thereby haue
+bene ſpoylde,</l>
+               <l>Our goodes for which our Parents and, our ſelues long tyme
+had toylde,</l>
+               <l>Had all bene taken from vs: beſides what had enſued,</l>
+               <l>The ſubſtance proueth plainly, to ſoone we all had
+rewed.</l>
+            </lg>
+            <lg>
+               <l>Thoſe were the Treaſons they conſpirde, our good
+Quéene to diſplace,</l>
+               <l>To ſpoyle the States of all this Land, ſuch was their want
+of grace:</l>
+               <l>But God that doth protect her ſtill, offended at the
+ſame,</l>
+               <l>Euen in their yong and tender yeres, did cut them of with
+ſhame.</l>
+            </lg>
+            <lg>
+               <l>Theſe Traytors executed were, on Stage full ſtrongly
+wrought,</l>
+               <l>Euen in the place where wickedly, they had their Treaſons
+ſought:</l>
+               <l>There they were hangde and quartered, there they acknowledgd
+why,</l>
+               <l>Who like as Traytors they had liude, euen ſo they ſeemde
+to dye.</l>
+            </lg>
+            <lg>
+               <l>O wicked Impes, O Traytors vilde, that could theſe
+déedes deuiſe,</l>
+               <l>Why did the feare of God and Prince, departe ſo from your
+eyes:</l>
+               <l>No Rebelles power can her diſplace, God will defend her
+ſtill,</l>
+               <l>True Subiects all will loſe their liues, ere Traytors haue
+their will.</l>
+            </lg>
+            <pb facs="tcp:173593:6"/>
+            <lg>
+               <l>How many miſchiefes are deuiſde: how many waies are
+wrought:</l>
+               <l>How many vilde Conſpiracies, againſt her Grace is
+ſought:</l>
+               <l>Yet God that doth protect her ſtill, her Grace doth well
+preſerue,</l>
+               <l>And workes a ſhame vnto her foes, as they doe beſt
+deſerue.</l>
+            </lg>
+            <lg>
+               <l>O heauenly God preſerue our Queene, in plentie health and
+peace,</l>
+               <l>Confound her foes, maintaine her right, her ioyes O Lord
+encreaſe:</l>
+               <l>Lord bleſſe her Counſaile euermore, and Nobles of this
+Land,</l>
+               <l>Preſerue her Subiects, and this Realme, with thy moſt
+mightie hand.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_the_executed">
+            <head>
+               <g ref="char:leaf">❧</g> T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+names of thoſe Traytors that were <hi>executed for the Treaſons before</hi>
+men<g ref="char:EOLhyphen"/>tioned on the firſt day.</head>
+            <list>
+               <item>Iohn Ballard, a Prieſt.</item>
+               <item>Anthonie Babington of Deticke in the Countie of Darbie
+Eſquier.</item>
+               <item>Iohn Sauidge Gentleman.</item>
+               <item>Robert Barnwell Gentleman.</item>
+               <item>Chidiacke Tichborne of Porcheſter in the Countie of South
+Eſquier.</item>
+               <item>Charles Tylney Eſquier and a Pentioner.</item>
+               <item>Edward Abington of Hinlop in the Countie of Worceſter
+Eſquier.</item>
+            </list>
+            <p>
+               <hi>The names of thoſe which were executed on the ſecond
+day.</hi>
+            </p>
+            <list>
+               <item>Thomas Saliſburie of Denbigh in the Countie of Denbigh
+Eſquier.</item>
+               <item>Henry Dunn Gentleman.</item>
+               <item>Edward Iohnes of Denbigh in the Countie of Denbigh
+Eſquier.</item>
+               <item>Iohn Trauers of Preſcot in the Countie of Lancaſter
+Gentleman.</item>
+               <item>Iohn Charnock of Lincolnes Inne Gentleman.</item>
+               <item>Robert Gage of Croydon in the Countie of Surrey
+Gentleman.</item>
+               <item>Ierome Bellamie of Harrow in the Countie of Middleſex
+Gentleman.</item>
+            </list>
+            <pb facs="tcp:173593:6"/>
+            <pb facs="tcp:173593:7"/>
+            <pb facs="tcp:173593:7" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
